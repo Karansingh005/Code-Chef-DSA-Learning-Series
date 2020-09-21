@@ -1,3 +1,4 @@
+<a><span class="iconify" data-icon="simple-icons:codechef" data-inline="false"></span></a>
 # Code-Chef-DSA-Learning-Series
 This repository contains solved problems for DSA Learning Series on CodeChef.
 
