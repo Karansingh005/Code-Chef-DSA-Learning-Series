@@ -1,4 +1,4 @@
-[CodeChef Logo](/images/codechef-logo.png)
+![CodeChef Logo](/images/codechef-logo.png)
 
 # Code-Chef-DSA-Learning-Series
 This repository contains solved problems for DSA Learning Series on CodeChef.
